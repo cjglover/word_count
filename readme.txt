@@ -2,6 +2,11 @@ cjglover@usc.edu
 6404176352
 cs104 hw8
 
+
+project to count occurances of words in given text using either splaytree or 
+hashmap
+
+
 compilitation instructions:
 $make
 
